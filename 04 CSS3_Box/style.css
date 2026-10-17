@@ -1,0 +1,58 @@
+/* h1 {
+  border-color: black;
+  border-style: solid;
+  border-top: 2px;
+  border-bottom: 2px;
+  border-left: 1px;
+  border-right: 1px;
+text-shadow: 1px 3px 1px rgba(228,232,14,0.63);
+
+} */
+/* p::first-line{
+  font-size: 200%;
+  font-weight: 900;
+  border-color: black;
+  border-style: solid;
+  border-top: 2px;
+  border-bottom: 2px;
+  border-left: 1px;
+  border-right: 1px;
+} */
+
+a:hover {
+color: yellow;
+text-decoration: underline;
+
+}
+a:link {
+   color: red;
+   text-decoration: none;
+  }
+a::after{
+   color: rgb(221, 18, 244) ;
+   }
+h1{
+    color: aqua;
+    background-color: black;
+   }
+   h2{
+    color: orangered;
+    color: #ff4400;
+    color: rgb(255, 68, 0);
+    background-color: burlywood;
+   }
+   h2:hover{
+    color: yellow;
+   }
+
+
+/* Pseudo Elements
+::first-letter, 
+::first-line,
+:link, 
+:visited,
+:hover, 
+:active, 
+:focus,
+::after, 
+*/

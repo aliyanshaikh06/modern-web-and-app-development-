@@ -1,0 +1,20 @@
+h1{
+    color: gray;
+    font-family: 'Courier New', Courier, monospace;
+}
+.heading{
+    color: blueviolet;
+}
+p{
+    background-color: greenyellow;
+}
+.para{
+    background-color: brown;
+}
+.para>b{
+    background-color: red;
+    color: yellow;
+}
+#italic{
+    color: grey;
+}

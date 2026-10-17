@@ -1,0 +1,38 @@
+/* img{
+width: 250px;
+height: 250px;}
+.align-center{
+  display: block;
+margin: 5px auto;
+  
+}
+.align-right{
+  float: right;
+  margin-left: 50px;
+
+} */
+ .card{
+  border: 2px solid black;
+  height: 300px;
+  width: 250px;
+  margin: 2px;
+  display: inline-block;
+  text-align: center;
+  background-color: blueviolet;
+
+ }
+ img{
+  height: 150px;
+  width: 100%;
+ }
+ body{
+  background-image: url(./whatsapp\ image.jpg);
+ }
+ .background{
+  height: 500px;
+  width: 50%;
+  background-image: url(./poster.jpg);
+ }
+ .background>h1{
+  color: white;
+ }

@@ -1,0 +1,38 @@
+/* ul>li{
+  list-style-type: disc ;
+}
+.M{
+  list-style-type: none ;
+}
+.B{
+  list-style-type: square;
+}
+.A{
+  list-style-type: upper-alpha;
+}
+.R{
+  list-style-type: upper-roman;
+}
+.para{
+  border: 2px solid black;
+  height: 200px;
+  width: 200px;
+} */
+ ul{
+  list-style-position: outside;
+ }
+ table{
+  empty-cells: hide;
+  border-collapse: separate;
+  border-spacing: 10px 5px;
+ }
+ .fa-solid{
+  position: absolute;
+  top: 11px;
+  left: 10px;
+  position: fixed;
+ }
+ 
+ input{
+  padding-left: 20px;
+ }

@@ -1,0 +1,48 @@
+/* p.para{
+    color: black;
+    background-color:black;
+    opacity: 0.4;
+    font-family: "Mea Culpa", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+.heading{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1.9rem;
+    border-color: blueviolet;
+}
+p{
+   font-size: 100px;
+   font-weight: bold;
+   font-style: oblique;
+   font-family: cursive;
+   
+  font-family: "Kablammo", system-ui;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+  font-variation-settings:"MORF" 0;
+} */
+ /* a{
+    color: black;
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: 400;
+    font-style: oblique;
+    text-transform: capitalize;
+    display: flex;
+    
+    justify-content: center;
+
+ } */
+ 
+/* .para{
+    line-height: -1em;
+  } */
+   /* h1{
+    text-align: center;
+   } */
+p>img{
+  vertical-align: middle;
+}
+  
